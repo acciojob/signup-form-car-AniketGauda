@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+
+form{
+                background-color: yellow;
+                border: 2px solid black;
+                border-radius: 4px;
+                width: 400px;
+                height: 350px;
+                padding:10px;
+            }
